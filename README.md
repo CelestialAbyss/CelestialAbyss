@@ -10,6 +10,11 @@ A few clarifications:
 - I am not a software engineer!
   - I just happened to pick up programming languages very well because of my understanding of the documentation for [KubeJS](https://kubejs.com/) and [Just-the-Docs](https://just-the-docs.com/). Outside of that I don't have the practical knowledge for JavaScript, Ruby, SCSS, HTML etc. to be able to create things on my own.
 
+## Links
+Quick links...
+- [Minecraft Optimization.md](https://github.com/CelestialAbyss/CelestialAbyss/blob/main/documents/minecraft_optimization.md)
+- [Linux Issues.md](https://gist.github.com/CelestialAbyss/377407b5674460e1a98259cb4e676175)
+
 ### Where is your artwork?
 
 Currently not available online, though my butterfly profile picture and Project Vyre logo are some of them.
@@ -67,11 +72,10 @@ Here's a list and their individual history.
 
 ### PC Specifications 
 
-- OMEN Obelisk case
-  - It's a prebuilt I know...
-- Intel i7-9700
-- GTX 1660 Ti
+- CPU: Intel i7-9700
+- GPU: ASUS Dual RTX 2080 OC / HP GTX 1660 Ti
 - Corsair Vengeance LPX 16GB (2x8GB DDR4 2666 mHz)
+- Case: Fractal Design Pop Air
 
 ### Keyboard History
 
