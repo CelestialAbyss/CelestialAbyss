@@ -1,4 +1,4 @@
-A general list of NeoForge / Forge optimization mods that I use. The majority of Fabric users should already be familiar with theirs
+A general list of NeoForge / Forge optimization mods that I use. The majority of Fabric users should already be familiar with theirs.
 
 > [!NOTE]  
 > Please note that this is currently a work in progress!
@@ -6,8 +6,18 @@ A general list of NeoForge / Forge optimization mods that I use. The majority of
 > [!WARNING]
 > This optimization mod list was only tested on computers with x86 CPUs with NVIDIA / AMD GPUs. I can't confirm that computers with ARM CPUs will have the same performance.
 
-## For NeoForge / Forge 1.20 - 1.20.4+
+## NeoForge 1.21.1
 
+| Mod name | Purpose | Notes | Incompatibilities |
+| -------- | ------- | ----- | ----------------- |
+| [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | Memory usage optimizations. [See here.](https://github.com/malte0811/FerriteCore/blob/main/summary.md) | N/A | Unknown |
+| [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix) | Even more memory usage optimizations *and* significant load time reductions. [See here.](https://github.com/embeddedt/ModernFix/wiki/Summary-of-Patches) | Report any bugs to embeddedt. Thank you. | Unknown |
+| [Sodium](https://www.curseforge.com/minecraft/mc-mods/sodium) | Rendering optimization. | N/A | ... |
+| [NotEnoughRecipeBook](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) | Completely removes the recipe book and recipe book data from the player which improves server performance. | N/A | There was an incompatible mod somewhere... need to find it. |
+| [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | In simplified terms it optimizes UI related things, for example... the F3 menu. [See here.](https://github.com/RaphiMC/ImmediatelyFast/tree/v1.2.7#optimizations) | May break UI elements in certain situations. | Unknown |
+
+## Forge 1.20.1
+  
 | Mod name | Purpose | Notes | Incompatibilities |
 | -------- | ------- | ----- | ----------------- |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | Memory usage optimizations. [See here.](https://github.com/malte0811/FerriteCore/blob/main/summary.md) | N/A | Unknown |
@@ -16,8 +26,6 @@ A general list of NeoForge / Forge optimization mods that I use. The majority of
 | [Redirector](https://curseforge.com/mc-mods/redirector) | Reduces required memory and improves access speeds. | [Ignore a harmless warn.](https://discord.com/channels/1140803582208245810/1140807479253545001/1164164340669227051) Otherwise, report any bugs to Kasualix / pOtAto__bOy | Unkown |
 | [NotEnoughRecipeBook](https://www.curseforge.com/minecraft/mc-mods/notenoughrecipebook) | Completely removes the recipe book and recipe book data from the player which improves server performance. | N/A | There was an incompatible mod somewhere... need to find it. |
 | [ImmediatelyFast](https://www.curseforge.com/minecraft/mc-mods/immediatelyfast) | In simplified terms it optimizes UI related things, for example... the F3 menu. [See here.](https://github.com/RaphiMC/ImmediatelyFast/tree/v1.2.7#optimizations) | May break UI elements in certain situations. | Unknown |
-
----
 
 ## For Forge 1.18.2 - 1.19.2
 
